@@ -5,9 +5,11 @@
 ## Assignments
 1. [Wonky Name-Typing Sampler with Pitchbend](https://drive.google.com/drive/u/1/folders/1ZnjRUARPPwt_N6qDzjyi4WcPfgmVnG6z)
 
+```
 
 
 
+```
 **Here's the default help text so I remember how to do things...**
 
 ### Markdown
