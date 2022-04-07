@@ -1,4 +1,4 @@
-# Josh's Audio Projects
+# 👾 🎹 🤯 Josh's Audio Projects 🥴 🔊 👽
 
 **Here's my stuff for Music 147!**
 
