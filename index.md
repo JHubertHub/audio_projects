@@ -7,47 +7,5 @@
 2. [Sample Recording / Musical Typing Keyboard with Mouse-Controlled Pitchbend and LFO](https://drive.google.com/drive/u/1/folders/11ZYqXCuVM5pW7Ohy-AznJM1tgZAjMhYF)
 3. [Grimy 2-Op FM Synth with MIDI Control (Work-in-Progress)](https://drive.google.com/drive/u/1/folders/1PtXRp3hsE-_M5avVBmWeiwvidIoOiIrF)
 4. [Random normal distributions controlling the timing, pitch, volume and panning of lil blips and bloops](https://drive.google.com/drive/u/1/folders/1hBvR8kYW6Gw2jCixMKxIrBy3OjGdd-NW)
-5. [Final Project Progress - wavetable synth that records waveforms from motion data](https://drive.google.com/drive/u/1/folders/167r4zUH3GcC0k574t21Q86AmmRaQQuQH)
+5. [Final Project - wavetable synth that records waveforms from motion data](https://drive.google.com/drive/u/1/folders/1Z2Jwl3HE8pIpEiagybRrcwRsjwfNlich)
 
-
-```
-
-
-
-
-
-
-
-
-```
-## // ----------------------------------------------------------------------------------------------------------------------
-**Here's the default help text so I remember how to do things...**
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
